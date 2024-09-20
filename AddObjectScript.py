@@ -34,7 +34,7 @@ class AddObjectPanel(bpy.types.Panel):
 
 
 class PanelA(bpy.types.Panel):
-    bl_label = "Panel A"
+    bl_label = "Scale"
     bl_idname = "PT_PanelA"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
